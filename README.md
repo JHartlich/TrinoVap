@@ -1,5 +1,5 @@
 # TrinoVap
-->hier DOI
+[![DOI](https://zenodo.org/badge/383449259.svg)](https://zenodo.org/badge/latestdoi/383449259)
 
 is a simple command line based tool to check for SwissProt, Kegg or Pfam annotations for a transcript based on the [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki "Trinotate @ GitHub") annotation report.
 TrinoVap also uses any [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki "TransDecoder @ GitHub") output in FASTA format to report annotions for complete, internal and partial sequences seperately.
